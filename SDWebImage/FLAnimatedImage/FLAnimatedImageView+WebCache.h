@@ -8,7 +8,7 @@
 
 
 //#if COCOAPODS
-    @import FLAnimatedImage;
+//  @import FLAnimatedImage;
 //#else
     #import "FLAnimatedImageView.h"
 //#endif
